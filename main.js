@@ -1,0 +1,1 @@
+var model = "https://teachablemachine.withgoogle.com/models/0D78oun5M/model.json";
